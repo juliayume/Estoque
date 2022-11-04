@@ -33,7 +33,7 @@
 
 .headera{
     grid-area: headera;
-    background-color: red;
+    background-color: rgb(0, 0, 108);
 }
 .sidebara{
     grid-area: sidebara;                                        
